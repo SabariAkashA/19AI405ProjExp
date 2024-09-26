@@ -1,4 +1,10 @@
 # Implement a Sudoku Solver From Scratch
+<h2><b>Name: Sabari Akash A
+
+Register No:212222230124</b></h2>
+# Aim: 
+To Implement a Sudoku Solver From Scratch
+
 ## Steps to solve the Sudoku Puzzle in Python
 <ol>
   <li>In this method for solving the sudoku puzzle, first, we assign the size of the 2D matrix to a variable M (M*M).</li>
